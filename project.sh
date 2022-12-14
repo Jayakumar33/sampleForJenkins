@@ -1,1 +1,1 @@
-echo "This is my jenkins course update again"
+echo "This is my jenkins course update "
